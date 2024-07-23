@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Mateusz! 🎓 
 
 **`Analyst (Data Engineer/Data Analyst)`**
-<img align="right" alt="Dashboard" width="200px" style="padding-right:10px;" src="https://github.com/Kalinoszczak/Kalinoszczak/blob/main/assets/image3.gif" /><br/>
+<img align="right" alt="Dashboard" width="200px" style="padding-right:10px; padding-left:10px;" src="https://github.com/Kalinoszczak/Kalinoszczak/blob/main/assets/image3.gif" /><br/>
 🔭 I’m Data Analyst in the process of a small upgrade to Data Engineer. I feel great about Big Data and develop my skills at every opportunity. I try to share my passion for data during my journey and learning the cloud. <br/>
 🚀 Studied Finance and Accounting at the University of Warsaw, Poland<br/>
 🏭 Currently learning to build pipelines with real-time data flow
