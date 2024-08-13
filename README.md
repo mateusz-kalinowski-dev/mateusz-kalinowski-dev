@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Mateusz! 🎓 
 
-**`Analyst (Data Engineer/Data Analyst)`**
+**`Data Engineer/Data Analyst`**
 <img align="right" alt="Dashboard" width="200px" style="padding-right:10px; padding-left:30px;" src="https://github.com/Kalinoszczak/Kalinoszczak/blob/main/assets/image3.gif" /><br/>
 🔭 I’m Data Analyst in the process of a small upgrade to Data Engineer. <br/>
 
