@@ -40,13 +40,13 @@ I try to share my passion for data during my journey and learning the cloud. <br
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 
-<br />
+<br clear="left" />
 
 ---
 
 ### 📊 Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://leetcard.jacoblin.cool/Kalink0?ext=heatmap" alt="Leetcode Stats" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=Kalinoszczak&count_private=true&show_icons=true&theme=radical&hide_rank=false" alt="GitHub Stats" width="400">
 </div>
