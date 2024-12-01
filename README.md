@@ -45,7 +45,9 @@ I try to share my passion for data during my journey and learning the cloud. <br
 ---
 
 ### 📊 Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/Kalink0?ext=heatmap)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalinoszczak&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
-#
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://leetcard.jacoblin.cool/Kalink0?ext=heatmap" alt="Leetcode Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalinoszczak&count_private=true&show_icons=true&theme=radical&hide_rank=false" alt="GitHub Stats" width="400">
+</div>
+
