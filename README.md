@@ -51,3 +51,9 @@ I try to share my passion for data during my journey and learning the cloud. <br
   <img src="https://github-readme-stats.vercel.app/api?username=Kalinoszczak&count_private=true&show_icons=true&theme=radical&hide_rank=false" alt="GitHub Stats" width="400">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake.svg" />
+</picture>
+
