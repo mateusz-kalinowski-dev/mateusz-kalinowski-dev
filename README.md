@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&weight=600&center=false&vCenter=true&duration=4000&pause=1000&color=F7F7F7&lines=Hi+👋!+My+name+is+Mateusz!+🎓&width=500&height=25" alt="Typing SVG" />
 </h1>
 
-**`Data Engineer / DevOps`**
+**`Data Engineer`**
+**`DevOps`**
 
 <p align="left">💻  Data Engineer -  I deal with data processing, analysis and optimization. <br>I create efficient ETL pipelines and automate data-related processes as well as develop machine learning models.<br>☁️ DevOps & Cloud - I'm developing my skills in CI/CD, monitoring and cloud infrastructure management.<br> I've got most of it down, but I'm still learning.<br><br>💭 I feel great about Big Data and develop my skills at every opportunity. <br>I try to share my passion for data during my journey and learning the cloud.<br><br>🚀 I'm pursuing a master's degree in Big Data at Warsaw School of Economics, Poland<br>📜 I have a Bachelor's degree in Finance and Accounting at the University of Warsaw, Poland<br>🧠 Currently learning Cloud technologies and working on my web portfolio.
 </p>
@@ -43,15 +44,25 @@
 
 
 ## 📊 Stats
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Kalink0?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/Kalink0?theme=unicorn&font=JetBrains%20Mono&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/Kalink0?theme=unicorn&font=JetBrains%20Mono&ext=heatmap" alt="Leetcode Stats" width="400">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kalinoszczak&count_private=true&show_icons=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kalinoszczak&count_private=true&show_icons=true&theme=catppuccin_latte" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kalinoszczak&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+  </picture>
+</p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://leetcard.jacoblin.cool/Kalink0?ext=heatmap" alt="Leetcode Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalinoszczak&count_private=true&show_icons=true&theme=radical&hide_rank=false" alt="GitHub Stats" width="400">
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake.svg" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake.svg" />
-</picture>
 
