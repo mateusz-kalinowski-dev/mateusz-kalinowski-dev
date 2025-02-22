@@ -1,6 +1,11 @@
 <img src="./assets/mkbanner.jpg" style="width: 100%; height: auto" />
+
 <h1 align=left>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&weight=600&center=false&vCenter=true&duration=4000&pause=1000&color=F7F7F7&lines=Hi+👋!+My+name+is+Mateusz!+🎓&width=500&height=25" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&weight=600&center=false&vCenter=true&duration=4000&pause=1000&color=E6EDF3&lines=Hi+👋!+My+name+is+Mateusz!+🎓&width=500&height=25"" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&weight=600&center=false&vCenter=true&duration=4000&pause=1000&color=24292F&lines=Hi+👋!+My+name+is+Mateusz!+🎓&width=500&height=25"" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&weight=600&center=false&vCenter=true&duration=4000&pause=1000&color=24292F&lines=Hi+👋!+My+name+is+Mateusz!+🎓&width=500&height=25">
+  </picture>
 </h1>
 
 **`Data Engineer`**
