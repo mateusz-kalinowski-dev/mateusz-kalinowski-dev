@@ -33,15 +33,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="35" alt="julia logo"  />
+  <img src="https://skillicons.dev/icons?i=julia" height="35"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="35" alt="rstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=r" height="35"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="35" alt="apache spark logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="35" alt="apache airflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="35" alt="apachekafka logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="35"/>
   <img width="12" />
   <img src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg?updated=1668081624532" height="35" alt="Databricks logo"  />
   <img width="12" />
@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="35"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
   <img width="12" />
@@ -71,7 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="35"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
@@ -81,63 +81,6 @@
   <img width="12" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="35" alt="powerbi logo"  />
   <img width="12" />
-</h3>
-
-<h3 align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=anaconda" height="35"/>
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=julia" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=r" height="35"/>
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="35" alt="apache spark logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="35" alt="apache airflow logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="35"/>
-  <img width="6" />
-  <img src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg?updated=1668081624532" height="35" alt="Databricks logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="microsoftsqlserver logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=git" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=azure" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=aws" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=docker" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=linux" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=bash" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=html" height="35"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=css" height="35"/>
-  <img width="6" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="35" alt="powerbi logo"  />
-  <img width="6" />
 </h3>
 
 ## 📊 Stats
