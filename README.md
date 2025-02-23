@@ -82,6 +82,7 @@
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="35" alt="powerbi logo"  />
   <img width="12" />
 </h3>
+
 ## 📊 Stats
 <p align="center">
   <picture>
