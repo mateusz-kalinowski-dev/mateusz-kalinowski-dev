@@ -15,8 +15,8 @@
 </p>
 
    <p align="left"> 
-      <a href="https://github.com/Kalinoszczak?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kalinoszczak?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/mateusz-kalinowski-dev?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mateusz-kalinowski-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Kalinoszczak?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kalinoszczak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="mailto:mateusz.kalinowski.da@gmail.com" target="_blank">
@@ -93,17 +93,17 @@
     <img src="https://leetcard.jacoblin.cool/Kalink0?theme=unicorn&font=JetBrains%20Mono&ext=heatmap" alt="Leetcode Stats" width="400">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kalinoszczak&count_private=true&show_icons=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kalinoszczak&count_private=true&show_icons=true&theme=catppuccin_latte" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Kalinoszczak&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mateusz-kalinowski-dev&count_private=true&show_icons=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mateusz-kalinowski-dev&count_private=true&show_icons=true&theme=catppuccin_latte" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mateusz-kalinowski-dev&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Kalinoszczak/Kalinoszczak/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusz-kalinowski-dev/mateusz-kalinowski-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusz-kalinowski-dev/mateusz-kalinowski-dev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mateusz-kalinowski-dev/mateusz-kalinowski-dev/output/github-snake.svg" />
   </picture>
 </p>
 
