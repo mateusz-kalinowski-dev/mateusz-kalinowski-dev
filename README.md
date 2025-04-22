@@ -1,5 +1,5 @@
 <img src="./assets/mkbanner.jpg" style="width: 100%; height: auto" />
-##
+
 <h1 align=left>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&weight=600&center=false&vCenter=true&duration=4000&pause=1000&color=E6EDF3&lines=Hi+👋!+My+name+is+Mateusz!+🎓&width=500&height=25"" />
