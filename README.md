@@ -83,7 +83,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="35" alt="powerbi logo"  />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="35" width="35" alt="powerbi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"/>
   <img width="12" />
 </h3>
 
