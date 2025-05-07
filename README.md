@@ -89,6 +89,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="35" alt="nginx logo"/>
+  <img width="12" />
 </h3>
 
 ## 📊 Stats
