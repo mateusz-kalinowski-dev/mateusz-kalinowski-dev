@@ -33,15 +33,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=julia" height="35"/>
+  <img src="https://skillicons.dev/icons?i=julia" height="35" alt ="julia logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="35"/>
+  <img src="https://skillicons.dev/icons?i=r" height="35" alt="r logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="35" alt="apache spark logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="35" alt="apache airflow logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="35"/>
+  <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka"/>
   <img width="12" />
   <img src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg?updated=1668081624532" height="35" alt="Databricks logo"  />
   <img width="12" />
@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="35"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="aws logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
   <img width="12" />
@@ -75,7 +75,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="35"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
