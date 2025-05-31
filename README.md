@@ -87,7 +87,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" alt="vitejs logo"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwindcss logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="35" alt="nginx logo"/>
   <img width="12" />
