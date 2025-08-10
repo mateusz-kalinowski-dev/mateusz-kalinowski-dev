@@ -12,7 +12,7 @@
 **`DataOps`**
 **`DevOps`**
 
-<p align="left">💻  Data Engineer -  I deal with data processing, analysis and optimization. <br>I create efficient ETL pipelines and automate data-related processes as well as develop machine learning models.<br>☁️ DevOps & Cloud - I'm developing my skills in CI/CD, monitoring and cloud infrastructure management.<br> I've got most of it down, but I'm still learning.<br><br>💭 I feel great about Big Data and develop my skills at every opportunity. <br>I try to share my passion for data during my journey and learning the cloud.<br><br>🚀 I'm pursuing a master's degree in Big Data at Warsaw School of Economics, Poland<br>📜 I have a Bachelor's degree in Finance and Accounting at the University of Warsaw, Poland<br>🧠 Currently learning Cloud technologies and working on my web portfolio.
+<p align="left">💻  Data Engineer -  I deal with data processing, analysis and optimization. <br>I designing efficient data infrastructure, from batch ETL to real-time pipelines as well as develop machine learning models.<br>☁️ DevOps & Cloud - I'm developing my skills in CI/CD, monitoring and cloud infrastructure management.<br> I've got most of it down, but I'm still learning.<br><br>💭 I feel great about Big Data and develop my skills at every opportunity. <br>I try to share my passion for data during my journey and learning the cloud.<br><br>🚀 I'm pursuing a master's degree in Big Data at Warsaw School of Economics, Poland<br>📜 I have a Bachelor's degree in Finance and Accounting at the University of Warsaw, Poland<br>🧠 Currently learning Cloud technologies and working on my web portfolio.
 </p>
 
    <p align="left"> 
