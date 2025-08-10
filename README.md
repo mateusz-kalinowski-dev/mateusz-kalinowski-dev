@@ -25,7 +25,7 @@
       <a href="https://www.linkedin.com/in/mateusz-kalinowski-878ab029a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" /></a>
    </p>
-
+   
 ## ⚡ Languages and Tools
 <h3 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
@@ -97,6 +97,12 @@
   <img src="https://skillicons.dev/icons?i=nginx" height="35" alt="nginx logo"/>
   <img width="12" />
 </h3>
+
+## Certificates
+
+<a href="https://credentials.databricks.com/21953864-dc67-46e5-90b9-12068af83cea#acc.o1CRZK0i)" target="_blank">
+  <img src="https://github.com/mateusz-kalinowski-dev/Data/blob/main/Other/badge.png?raw=true" style="width: 200px; height: auto;" />
+</a>
 
 ## 📊 Stats
 <p align="center">
