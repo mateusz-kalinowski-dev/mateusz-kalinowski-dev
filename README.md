@@ -25,8 +25,9 @@
       <a href="https://www.linkedin.com/in/mateusz-kalinowski-878ab029a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" /></a>
    </p>
-   
-## ⚡ Languages and Tools
+  
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Languages and Tools</b>  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <h3 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
@@ -98,13 +99,17 @@
   <img width="12" />
 </h3>
 
-## Certificates
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRvdW9qaW5jNW5henB5a2FyYjQycHFwZTg1MnAwaHZoZGJwaHJmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LObgENh3syUaLnRMJx/giphy.gif" width ="25"> &ensp;<b> Certificates </b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://credentials.databricks.com/21953864-dc67-46e5-90b9-12068af83cea#acc.o1CRZK0i)" target="_blank">
   <img src="https://github.com/mateusz-kalinowski-dev/Data/blob/main/Other/badge.png?raw=true" style="width: 200px; height: auto;" />
 </a>
 
-## 📊 Stats
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Kalink0?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
