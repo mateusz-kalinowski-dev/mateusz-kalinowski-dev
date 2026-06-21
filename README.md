@@ -1,4 +1,4 @@
-<img src="./assets/mkbanner.jpg" style="width: 100%; height: auto" />
+<img src="./assets/baner.png" style="width: 100%; height: auto" />
 
 <h1 align=left>
     <picture>
@@ -8,7 +8,7 @@
   </picture>
 </h1>
 
-**`Data Engineer`**
+**`Data Platform Engineer`**
 **`DataOps`**
 **`DevOps`**
 
