@@ -12,17 +12,27 @@
 **`DataOps`**
 **`DevOps`**
 
-<p align="left">💻  Data Engineer -  I deal with data processing, analysis and optimization. <br>I designing efficient data infrastructure, from batch ETL to real-time pipelines as well as develop machine learning models.<br>☁️ DevOps & Cloud - I'm developing my skills in CI/CD, monitoring and cloud infrastructure management.<br> I've got most of it down, but I'm still learning.<br><br>💭 I feel great about Big Data and develop my skills at every opportunity. <br>I try to share my passion for data during my journey and learning the cloud.<br><br>🚀 I'm pursuing a master's degree in Big Data at Warsaw School of Economics, Poland<br>📜 I have a Bachelor's degree in Finance and Accounting at the University of Warsaw, Poland<br>🧠 Currently learning Cloud technologies and working on my web portfolio.
-</p>
+I'm bridging the gap between infrastructure, data architecture, and software engineering.
+
+* ☁️ **Cloud, GitOps & IaC** — Designing highly available hybrid environments (Azure, Kubernetes, OpenShift) and automating pipelines via ArgoCD, Terraform, and Ansible.
+* 📊 **Data & Streaming** — Architecting enterprise real-time streaming platforms (Apache Kafka) and managing robust data ecosystems (Databricks, Microsoft Fabric).
+* 🛠️ **Observability & DevTools** — Ensuring system reliability and accelerating developer workflows by building custom internal web applications (TypeScript, Django) and full-stack observability solutions.
+* 🌱 **Currently focusing on** — Pushing the boundaries of automated data ecosystems and exploring advanced Generative AI integrations.
+
+---
+
+### 🎓 My Background
+* 🚀 **Master's degree in Big Data** — Warsaw School of Economics (SGH), Poland
+* 📜 **Bachelor's degree in Finance and Accounting** — University of Warsaw (UW), Poland
 
    <p align="left"> 
       <a href="https://github.com/mateusz-kalinowski-dev?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mateusz-kalinowski-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Kalinoszczak?tab=repositories&sort=stargazers">
+      <a href="https://github.com/mateusz-kalinowski-dev?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mateusz-kalinowski-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="mailto:mateusz.kalinowski.da@gmail.com" target="_blank">
          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" /></a>
-      <a href="https://www.linkedin.com/in/mateusz-kalinowski-878ab029a" target="_blank">
+      <a href="https://www.linkedin.com/in/kalinowski-m/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" /></a>
    </p>
   
