@@ -113,12 +113,15 @@ I'm bridging the gap between infrastructure, data architecture, and software eng
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRvdW9qaW5jNW5henB5a2FyYjQycHFwZTg1MnAwaHZoZGJwaHJmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LObgENh3syUaLnRMJx/giphy.gif" width ="25"> &ensp;<b> Certificates </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://credentials.databricks.com/21953864-dc67-46e5-90b9-12068af83cea#acc.o1CRZK0i)" target="_blank">
-  <img src="https://github.com/mateusz-kalinowski-dev/Data/blob/main/Other/badge.png?raw=true" style="width: 200px; height: auto;" />
+<a href="https://credentials.databricks.com/21953864-dc67-46e5-90b9-12068af83cea#acc.o1CRZK0i" target="_blank">
+  <img src="https://github.com/mateusz-kalinowski-dev/Data/blob/main/Other/badge.png?raw=true" style="width: 200px; height: auto;" alt="Databricks Badge" />
+</a>
+<a href="https://learn.microsoft.com/en-us/users/mateuszkalinowski-3559/credentials/fb8d40b0af8a0db5" target="_blank">
+  <img src="./assets/fabric_data_engineer.png" style="width: 200px; height: auto;" alt="Microsoft Fabric Data Engineer Badge" />
 </a>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" alt="Stats Icon" /> &ensp;<b> Stats </b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
 
 <p align="center">
   <picture>
